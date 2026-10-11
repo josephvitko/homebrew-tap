@@ -1,6 +1,6 @@
 cask "powerbar" do
-  version "1.0.0"
-  sha256 "860f7ea2eb5df7be40ba75d1f3818440d4337eaf6fab0be22f028090f3f6ebf7"
+  version "1.0.1"
+  sha256 "2ddbcfa61069cc83ad55877781faa4886cb2651074b1c1d32d416fb64ed24a68"
 
   url "https://github.com/josephvitko/powerbar/releases/download/v#{version}/PowerBar-#{version}.zip"
   name "PowerBar"
